@@ -1,5 +1,8 @@
 # Lista Linear
 
+Ryan Miranda Domingos
+ryanmirandad@gmail.com
+
 Faça um fork deste repositorio e implemente a função exlcuirElemento
 
 **excluirElemento:**
