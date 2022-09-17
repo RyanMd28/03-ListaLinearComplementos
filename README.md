@@ -1,7 +1,7 @@
 # Lista Linear
 
 Ryan Miranda Domingos
-ryanmirandad@gmail.com
+ryan.domingos@fatec.sp.gov.br
 
 Faça um fork deste repositorio e implemente a função exlcuirElemento
 
